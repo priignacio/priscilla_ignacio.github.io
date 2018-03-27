@@ -1,0 +1,31 @@
+.title	{
+	text-align: center;
+	background-color: #0BC38D;
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	margin: 25px;
+	padding: 10px;
+}
+
+.description {
+	font-family: 'Dosis', sans-serif;
+	background-color: #B7D5FD;
+	text-align:center;
+	padding: 15px;
+	margin: 25px;
+}
+
+.description2 {
+	font-family: 'Dosis', sans-serif;
+	background-color: #B5F1DC;
+	text-align:center;
+	padding: 15px;
+	margin: 25px;
+}
+
+
+.navbar {
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+
+}
